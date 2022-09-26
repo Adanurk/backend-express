@@ -1,0 +1,23 @@
+{
+  "name": "backend-express",
+  "version": "1.0.0",
+  "description": "exercise 5",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adanurk/backend-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adanurk/backend-express/issues"
+  },
+  "homepage": "https://github.com/Adanurk/backend-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
